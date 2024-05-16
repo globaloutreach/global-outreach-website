@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Outreach Youth Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ffd700; /* gold */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #000000; /* gold */
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #000;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: #ffd700; /* gold */
+            text-decoration: none;
+            padding: 10px 20px;
+            font-size: 18px;
+        }
+
+        nav a:hover {
+            background-color: #ffd700; /* gold */
+            color: #000;
+        }
+
+        .slideshow-container {
+            max-width: 100%;
+            position: relative;
+            margin: auto;
+        }
+
+        .slideshow-container img {
+            width: 100%;
+            display: none;
+        }
+
+        .section {
+            display: none;
+            padding: 20px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #000000; /* gold */
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Global Outreach Youth Organization</h1>
+    </header>
+
+    <nav>
+        <a href="#" onclick="toggleSection('home')">Home</a>
+        <a href="#" onclick="toggleSection('about')">About</a>
+        <a href="#" onclick="toggleSection('programs')">Programs</a>
+        <a href="#" onclick="toggleSection('events')">Gallery</a>
+        <a href="#" onclick="toggleSection('donate')">Donate</a>
+        <a href="#" onclick="toggleSection('contact')">Contact</a>
+    </nav>
+
+    <div class="slideshow-container">
+        <img class="mySlides" src="image1.jpg" style="display: block;">
+        <img class="mySlides" src="image2.jpg">
+        <img class="mySlides" src="image3.jpg">
+    </div>
+
+    <div class="section" id="home">
+        <h2>Welcome to Global Outreach Youth Organization</h2>
+        <p>#reaching all posibilities</p>
+        <p>We empower youth to make positive changes in their communities.</p>
+        <p>Our mission is clear: to empower the next generation with economic opportunities, essential skills training, and invaluable insights into the world of technology and artificial intelligence (AI). We believe that by equipping young minds with these tools, we can break the cycle of poverty, unleash their full potential, and pave the way for a brighter future.</p>
+    </div>
+
+    <div class="section" id="about">
+            <h2>About Us</h2>
+            <p>Global Outreach Youth Organization is a beacon of hope for the youth in rural areas, particularly situated in the heart of Moetagare Ga Matlala, a village nestled in the picturesque landscapes of Limpopo, South Africa.</p>
+            <p>Our mission is clear: to empower the next generation with economic opportunities, essential skills training, and invaluable insights into the world of technology and artificial intelligence (AI). We believe that by equipping young minds with these tools, we can break the cycle of poverty, unleash their full potential, and pave the way for a brighter future.</p>
+            <p>Founded by visionary leaders deeply rooted in the local community, our organization is driven by a passion for change and a commitment to uplift the marginalized. We understand the challenges faced by rural youth - the lack of resources, limited access to education, and the daunting prospect of unemployment. That's why we're dedicated to bridging these gaps and providing pathways to success.</p>
+            <p>At Global Outreach Youth Organization, we don't just offer handouts; we provide hand-ups. Through our comprehensive programs, we offer practical skills training in various fields, mentorship opportunities, and access to innovative technologies. We believe in nurturing talent, fostering entrepreneurship, and instilling confidence in the leaders of tomorrow.</p>
+            <p>Join us on this transformative journey as we strive to create a world where every young person has the chance to thrive, regardless of their background or circumstances. Together, we can unlock the boundless potential within every individual and build a brighter, more inclusive future for all.</p>
+        </div>
+        
+    </div>
+
+    <div class="section" id="programs">
+        <h2>Our Programs</h2>
+        <p>Explore our various programs designed to help youth develop their skills and passions.</p>
+        <div class="project-section" id="project1">
+            <h2>NYDA BMT 27 MAY 2024</h2>
+            <p>Business Management Training
+                “Providing entrepreneurial skills to young people”
+                
+                What is the Business Management Training Programme?
+                
+                The Entrepreneurship Development Programme is aimed at creating a conducive environment for young entrepreneurs to access relevant entrepreneurship skills, knowledge, values and attitudes for their businesses.</p>
+                <p>The programme offers entrepreneurship trainings that responds appropriately and adequately to the market and business needs of the young people.</p>
+                <p>The Business Management Training courses is designed to support young entrepreneurs in the following stages of the businesses:
+
+                    • Pre-start Up/Idea generation
+                    
+                    • Survivalist
+                    
+                    • Start Up
+                    
+                    • Early Development
+                    
+                    • Growth & Expansion</p>
+                    <p>The Business Management Training courses on offer are approved and accredited by ILO, The International Labour Organisation. Start and Improve Your Business (SIYB) is the largest global business management training programme. It assists small scale entrepreneurs to start and grow their businesses and create employment. These training courses are offered as a 3-6 day training course depending on the specific needs of the young person and the level of the business. They are :
+
+                        • GYBI – Generate Your Business Idea
+                        
+                        • SYB – Start Your Business
+                        
+                        • IYB – Improve Your Business</p>
+                        <p>1. GENERATE YOUR BUSINESS IDEA – GYBI
+
+                            Objective: This course enables potential entrepreneurs to develop a concrete business idea
+                            
+                            - Course Duration: 3 days
+                            
+                            
+                            
+                            Modules covered on the course:
+                            
+                            Part I - You are an Entrepreneur
+                            
+                            Part II - A market is waiting for you
+                            
+                            Part III - Your own Business Idea List
+                            
+                            Part IV - The best Business Idea for You
+                            
+                            Part V - Your own Business Idea
+                            
+                             
+                            
+                            <p>Participant Certificate: Participants will receive a “Certificates of Completion” for the 3 day GYBI training course completed - on the on the last day of the training
+                            
+                             
+                            
+                            2. START YOUR BUSINESS – SYB
+                            
+                            Objective: This course enables potential entrepreneurs to develop a bankable business plan and enhance their skills and knowledge.
+                            
+                            Course Duration:  5 days training + 1 day Pitching
+                            
+                             
+                            
+                            Modules covered on the course: 5 days
+                            
+                            Part I - Assess Your Readiness to a Start a Business
+                            
+                            Part II - The Business Plan
+                            
+                            Part III - Reinforce Your Business Idea
+                            
+                            Part IV - The Marketing Plan
+                            
+                            Part V - Staff
+                            
+                            Part VI - Organisation and Management
+                            
+                            Part VII - Buying for your Business
+                            
+                            Part VIII - Greening Your Business
+                            
+                            Part IX - Costing Your Goods & Services
+                            
+                            Part X - Financial Panning
+                            
+                            Part XI - Required Start Up Capital
+                            
+                            Part XII - Types and Sources of Start Up Capital
+                            
+                            Part XIII - Starting the Business
+                            
+                             
+                            
+                            Post Training – Pitching Session:  1 day
+                            
+                            • Pitching session is mandatory – where the participants make presentations post the SYB training
+                            
+                             
+                            
+                            Participant Certificate: Certificates are issued only at the pitching session</p>
+                            
+                            <p>3. IMPROVE YOUR BUSINESS - IYB
+                            
+                            Objective: This course enables existing entrepreneurs to develop their skills and improvement plans for their business
+                            
+                            Course Content and Duration: 
+                            
+                            IYB content is divided into 2 courses :
+                            
+                            • IYB Course 1 : 5 training days + 1 Pitching 
+                            
+                            • IYB Course 2 : 5 training days + 1 Pitching</p> 
+                            
+                            
+                            
+                           <p> 3.1 IYB Course 1  (5 days)
+                            
+                            • Marketing
+                            
+                            • Buying and Stock Control
+                            
+                            • People and Productivity</p>
+                            
+                             
+                            
+                            <p>3.2 IYB Course 2  (5 days)
+                            
+                            • Costings
+                            
+                            • Record Keeping
+                            
+                            • Planning for your Business</p>
+                            
+                             
+                            
+                           <p> Post Training – Pitching Session : 1 day
+                            
+                            • Pitching session is mandatory – where the participants make presentations post the IYB training</p>
+                            
+                             
+                            
+                           <p> Who is Eligible for Business Management Training?
+                            
+                            • South African citizens, between the ages of 18 and 35
+                            
+                            • With a valid South African Identity document
+                            
+                            • The business must be 100% youth owned
+                            
+                            • Young entrepreneurs wanting to access a grant or voucher and do not meet the requirement of the programme</p>
+                            
+                             
+                            
+                            <p>What is the process of applying for accessing the Business Management Training?
+                            
+                            • Visit the closest NYDA branch. See list of branches here
+                            
+                            • Submit the training application form and all other required documents to the nearest NYDA branch
+                            
+                            • A desk assessment is conducted by the branch
+                            
+                            • If approved, the participant will be provided with the following
+                            
+                            o Notification of the approved training course
+                            
+                            o logistics for the Training
+                            
+                            o logistics for the Pitching Session
+                            
+                            •The participant must present their  South African Identity Document at the first day of the training
+                            
+                            • Participants attending the SYB and IYB courses will also be required to attend a mandatory  “Pitching Session” on a date scheduled by the branch.
+                            
+                            • Participants will be issued with a “Certificate of Completion” for participating in the NYDA Training course</p>
+        </div>
+    
+        <div class="project-section" id="project2">
+            <h2>GOYO BIZ SUMMIT</h2>
+            <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Summit Registration - Global Outreach Youth Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ffd700; /* gold */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffd700; /* gold */
+            padding: 20px;
+            text-align: center;
+        }
+
+        form {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ffd700; /* gold */
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #ffd700; /* gold */
+            color: #000;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #000;
+            color: #ffd700; /* gold */
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Business Summit Registration</h1>
+    </header>
+
+    <form action="register.php" method="POST">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone" required>
+
+        <label for="company">Company Name:</label>
+        <input type="text" id="company" name="company" required>
+
+        <label for="position">Position/Title:</label>
+        <input type="text" id="position" name="position" required>
+
+        <label for="industry">Industry:</label>
+        <select id="industry" name="industry" required>
+            <option value="">Select Industry</option>
+            <option value="Technology">Technology</option>
+            <option value="Finance">Finance</option>
+            <option value="Healthcare">Healthcare</option>
+            <option value="Manufacturing">Manufacturing</option>
+            <!-- Add more options as needed -->
+        </select>
+
+        <label for="interests">Interests/Topics of Interest:</label>
+        <textarea id="interests" name="interests" required></textarea>
+
+        <label for="heard-about">Where did you hear about the summit?</label>
+        <input type="text" id="heard-about" name="heard_about" required>
+
+        <input type="submit" value="Register">
+    </form>
+
+</body>
+
+</html>
+
+        </div>
+    
+        <div class="project-section" id="project3">
+            <h2>Hackathon</h2>
+            <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hackathon Registration - Global Outreach Youth Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ffd700; /* gold */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffd700; /* gold */
+            padding: 20px;
+            text-align: center;
+        }
+
+        form {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        select,
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ffd700; /* gold */
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #ffd700; /* gold */
+            color: #000;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #000;
+            color: #ffd700; /* gold */
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Hackathon Registration</h1>
+    </header>
+
+    <form action="register.php" method="POST">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone" required>
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender" required>
+            <option value="">Select Gender</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+        </select>
+
+        <label for="dob">Date of Birth:</label>
+        <input type="date" id="dob" name="dob" required>
+
+        <label for="address">Address:</label>
+        <textarea id="address" name="address" required></textarea>
+
+        <label for="field-of-study">Field of Study:</label>
+        <input type="text" id="field-of-study" name="field_of_study" required>
+
+        <label for="goals">What do you want to achieve at the hackathon?</label>
+        <textarea id="goals" name="goals" required></textarea>
+
+        <label for="heard-about">Where did you hear about the hackathon?</label>
+        <input type="text" id="heard-about" name="heard_about" required>
+
+        <input type="submit" value="Register">
+    </form>
+
+</body>
+
+</html>
+
+        </div>
+        
+    </div>
+
+    <div class="section" id="gallery">
+        <h2>Our pictures and Events pictures</h2>
+        <p>Stay updated on our latest events and activities.</p>
+    </div>
+
+    <div class="section" id="donate">
+        <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate - Global Outreach Youth Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ffd700; /* gold */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #ffd700; /* gold */
+            padding: 20px;
+            text-align: center;
+        }
+
+        form {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ffd700; /* gold */
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+            background-color: #ffd700; /* gold */
+            color: #000;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #000;
+            color: #ffd700; /* gold */
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Donate to Global Outreach Youth Organization</h1>
+    </header>
+
+    <form action="donate.php" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="amount">Donation Amount:</label>
+        <input type="number" id="amount" name="amount" required>
+
+        <label for="currency">Currency:</label>
+        <select id="currency" name="currency" required>
+            <option value="USD">ZAR</option>
+            <!-- Add more options as needed -->
+        </select>
+
+        <input type="submit" value="Donate">
+    </form>
+
+</body>
+
+</html>
+
+    </div>
+    
+    <div class="section" id="contact">
+        <h2>Contact Us</h2>
+        <p>email us- globaloutreach@globaloutreach.info</p>
+        <p>Mr T.S TEMO- +27 82 587 0972</p>
+        <P>Mr I.P NONG- +27 74 729 7813</P>
+        <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Global Outreach Youth Organization</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ffd700; /* gold */
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #000000; /* gold */
+            padding: 20px;
+            text-align: center;
+        }
+
+        form {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #ffd700; /* gold */
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+
+        textarea {
+            height: 150px;
+        }
+
+        input[type="submit"] {
+            background-color: #ffd700; /* gold */
+            color: #000;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #000;
+            color: #ffd700; /* gold */
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+
+    <form action="submit_form.php" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Message:</label>
+        <textarea id="message" name="message" required></textarea>
+
+        <input type="submit" value="Submit">
+    </form>
+
+</body>
+
+</html>
+
+        <p>Get in touch with us to learn more about our organization and how you can get involved.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Global Outreach Youth Organization, All rights reserved.</p>
+    </footer>
+
+    <script>
+        var slideIndex = 0;
+        showSlides();
+
+        function showSlides() {
+            var i;
+            var slides = document.getElementsByClassName("mySlides");
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) { slideIndex = 1 }
+            slides[slideIndex - 1].style.display = "block";
+            setTimeout(showSlides, 2000); // Change image every 5 seconds
+        }
+
+        function toggleSection(sectionId) {
+            var section = document.getElementById(sectionId);
+            if (section.style.display === "none") {
+                section.style.display = "block";
+            } else {
+                section.style.display = "none";
+            }
+        }
+    </script>
+
+</body>
+
+</html>
